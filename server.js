@@ -11,7 +11,7 @@ class Block {
   this.nextHash = this.generateHash();
  }
  
- //generate sha256 hashing
+ //generate random sha256 hashing
  generateHash() {
   return hash(this.index + this.timestamp + JSON.stringify(this.data)).toString();
  }
