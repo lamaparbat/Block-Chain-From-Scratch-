@@ -80,7 +80,7 @@ class BlockChain {
 ```
 
 ## Proof-of-Work (Secure our blockchain against spammers)
-Before diving into Proof-of-Work, we must know the reason and important of it. 
+Before diving into Proof-of-Work, we must know the reason and important of using it. 
 - Proof-of-work is one such method that makes it too resource-intensive to try to overtake the network.
 - It is decentralized and peer-to-peer by design, blockchains such as cryptocurrency networks require some way of achieving both consensus and security. 
 - It enables Bitcoin transactions to to be confirmed and recorded without a central authority.
