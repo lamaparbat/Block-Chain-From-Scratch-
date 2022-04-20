@@ -87,5 +87,7 @@ Before diving into Proof-of-Work, we must know the reason and important of using
 ...
 
 
+## Mining & rewards
+
 ## License 
 [Parbat Lama](https://parbat-5db79.web.app/)
